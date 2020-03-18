@@ -1,0 +1,15 @@
+{
+  "name": "pm2_cluster_test",
+  "version": "1.0.0",
+  "description": "This project is to test the performance gain over pm2 clustring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kayvan Arianpour",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^2.12.1",
+    "fastify-static": "^2.6.0"
+  }
+}
