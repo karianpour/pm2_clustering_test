@@ -9,7 +9,7 @@
   "author": "Kayvan Arianpour",
   "license": "ISC",
   "dependencies": {
-    "fastify": "^2.15.1",
+    "fastify": "^4.28.1",
     "fastify-static": "^4.4.1"
   }
 }
